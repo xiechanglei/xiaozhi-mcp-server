@@ -1,0 +1,17 @@
+{
+  "name": "xiaozhi-mvp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "ws": "^8.23.0",
+    "zod": "^3.25.0"
+  }
+}
